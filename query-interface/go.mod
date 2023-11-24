@@ -1,3 +1,3 @@
-module github.com/roopeshsn/november-2023-hiring-roopeshsn/query-interface
+module github.com/roopeshsn/log-ingestor/query-interface
 
 go 1.20
